@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Final Standing: 16th place out of all participants**  
-> Public Score (MAE): `0.8796` | Private Score (MAE): `0.8686`
+> Public Score: `0.8796` | Private Score: `0.8686`
 
 ---
 
@@ -165,11 +165,9 @@ These rules improved the score **without retraining the model**.
 
 ## Results
 
-| Model | CV MAE | Public MAE | Private MAE |
-|-------|--------|------------|-------------|
-| EfficientNet-B3 (baseline) | ~1.20 | — | — |
-| ConvNeXt-Tiny + TTA | ~0.91 | — | — |
-| **Swin-Base + TTA + Post-processing** | **~0.87** | **0.8796** | **0.8686** |
+| Model | Public score | Private score |
+|-------|------------|-------------|
+| **Swin-Base + TTA + Post-processing** | **0.8796** | **0.8686** |
 
 > **Final leaderboard position: 16th**
 
