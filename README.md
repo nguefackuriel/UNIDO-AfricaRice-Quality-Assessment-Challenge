@@ -14,7 +14,7 @@
 
 **Hosted by:** [Zindi Africa](https://zindi.africa/competitions/unido-africarice-quality-assessment-challenge) in partnership with **UNIDO** and **AfricaRice**
 
-Manual rice quality inspection is slow, expensive, and inconsistent — especially for smallholder farmers and food processors in Africa. This challenge asks participants to build a **computer vision model** that can automatically assess rice quality from a single tray image.
+Manual rice quality inspection is slow, expensive, and inconsistent, especially for smallholder farmers and food processors in Africa. This challenge asks participants to build a **computer vision model** that can automatically assess rice quality from a single tray image.
 
 ### Task
 Given an image of a rice sample tray, predict **15 quality measurements simultaneously**:
